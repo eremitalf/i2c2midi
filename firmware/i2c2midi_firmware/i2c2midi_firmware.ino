@@ -33,7 +33,7 @@
 */ 
 
 // Turn on/off MK2 features
-#define MK2
+#define MK1
 
 // USB Device
 //   i2c2midi can also act as a USB device and send MIDI data over the Teensy Micro USB jack to a host (e.g. a computer).
